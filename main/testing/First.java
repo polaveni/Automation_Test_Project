@@ -23,6 +23,7 @@ public class First {
 		ts.add("shekar");
 		ts.add("Raju");
 		ts.add("First");
+		ts.add("second");
 	//	ts.add(2); ClassCastException
 	//	ts.add(null);  // Null pointer Exception
 		
