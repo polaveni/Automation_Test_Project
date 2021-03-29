@@ -34,6 +34,8 @@ public class First {
 	//	TreeMap tm=new TreeMap();
 		
 	System.out.println("hii");
+	
+	System.out.println("hii");
 		
 		
 		
