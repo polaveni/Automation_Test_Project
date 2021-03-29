@@ -38,6 +38,9 @@ public class First {
 	System.out.println("hii");
 	System.out.println("hii_sheker_bhau");
 	System.out.println("adding 1 more line to resolve a merge conflicts.");
+		System.out.println("adding 1 more line to resolve a merge conflicts 1.");
+		System.out.println("adding 1 more line to resolve a merge conflicts 2.");
+		System.out.println("adding 1 more line to resolve a merge conflicts 3.");
 	
 	}
 
